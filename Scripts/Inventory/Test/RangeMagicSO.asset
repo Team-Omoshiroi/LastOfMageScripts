@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00bd7ab6c86fc4b428fe0ecd7fbbd7a8, type: 3}
+  m_Name: RangeMagicSO
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: -1105681907, guid: 36504683c6a53aa47bddf4c13be13cfb, type: 3}
+  objectPrefab: {fileID: 0}
+  itemID: 100003
+  itemName: FireBall
+  itemDescription: 
+  itemType: 2
+  itemMaxStack: 0
+  isStackable: 1
+  range: 0
+  attackData:
+    <AttackInfos>k__BackingField:
+    - <AttackName>k__BackingField: FireBall
+      <AttackType>k__BackingField: 101
+      <AttackSound>k__BackingField: {fileID: 8300000, guid: b1a9ddf6eaca1694786f113a0606dde0, type: 3}
+      <ComboStateIndex>k__BackingField: 0
+      <ComboTransitionTime>k__BackingField: 0.1
+      <ForceTransitionTime>k__BackingField: 0.5
+      <Force>k__BackingField: 1

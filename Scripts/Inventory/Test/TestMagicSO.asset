@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00bd7ab6c86fc4b428fe0ecd7fbbd7a8, type: 3}
+  m_Name: TestMagicSO
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  objectPrefab: {fileID: 0}
+  itemID: 0
+  itemName: "\uD14C\uC2A4\uD2B8 \uB9C8\uBC95"
+  description: "\uD14C\uC2A4\uD2B8\uC6A9 \uB9C8\uBC95\uC785\uB2C8\uB2E4."
+  itemType: 2
+  maxStack: 1
+  isStackable: 0
+  range: 1
+  attackData:
+    <AttackInfos>k__BackingField:
+    - <AttackName>k__BackingField: start
+      <AttackType>k__BackingField: 1
+      <ComboStateIndex>k__BackingField: 1
+      <ComboTransitionTime>k__BackingField: 0.5
+      <ForceTransitionTime>k__BackingField: 0.2
+      <Force>k__BackingField: 1
+      <Damage>k__BackingField: 1
+      <Anime>k__BackingField: {fileID: 7400000, guid: e738a61b954375b40a344cc06fd489bc, type: 2}
+    - <AttackName>k__BackingField: end
+      <AttackType>k__BackingField: 2
+      <ComboStateIndex>k__BackingField: 0
+      <ComboTransitionTime>k__BackingField: 0.5
+      <ForceTransitionTime>k__BackingField: 0.2
+      <Force>k__BackingField: 1
+      <Damage>k__BackingField: 1
+      <Anime>k__BackingField: {fileID: 7400000, guid: 4a832e643afc41242bba3b0a9be3e4ae, type: 2}
